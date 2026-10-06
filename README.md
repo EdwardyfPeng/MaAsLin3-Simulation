@@ -12,6 +12,10 @@ Take abundance-only and prevalence-only , u=0 and u=0.5 as illustration.
 
 ### median baseline depth = 50000, shuffle setting
 
+<img width="700" height="500" alt="Rplot5" src="https://github.com/user-attachments/assets/48358a84-4713-46fe-9b7e-ce879f6040fa" />
+
+<img width="700" height="500" alt="Rplot6" src="https://github.com/user-attachments/assets/950861ae-13c6-44f8-8338-048d5ef99fc8" />
+
 ### median baseline depth = 1000, shuffle setting
 
 <img width="700" height="500" alt="Rplot9" src="https://github.com/user-attachments/assets/b89db128-82a3-4044-82f0-8853ecdbc35c" />
